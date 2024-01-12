@@ -6,3 +6,4 @@ valueB = 3
 operation = '+'
 
 quantum_circuit(valueA, valueB, operation)
+# quantum_circuit(valueA, valueB)

@@ -2,7 +2,7 @@
 ## Summary
 Welcome to my qubit calculator, it works as a simple 4-bit addition and subtraction calculator on positive numbers. It operates hybridly, with the inputs and outputs 
 (such as the negative flag to indicate whether to read it as a signed or unsigned number) being handle classically, while the operations of the full adder are handled using qubits.
-There is a simpler version that operates on 3 bits that can only do addition.
+There is a simpler version that operates on 3 bits that can only do addition. To visualize the circuit, there exists a png in the folder of the circuit that gets used.
 
 ## Difference in circuit versions
 There is a notable difference in how each circuit is created and handled.
